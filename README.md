@@ -1,0 +1,2 @@
+# Bodo-English-Dictionary-Translator
+The aim of this project is to make English-Bodo and Bodo-English translation dictionary applications using Shared Preferences, SQLite and Preload Data. This app includes pages for English-Bodo, and Bodo-English.The process of loading data is only done when the application is first run (the process of loading data must be fast). The dictionary data is sourced from the text file format. The library used is Butter Knife.
